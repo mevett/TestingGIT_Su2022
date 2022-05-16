@@ -3,3 +3,4 @@ This is the initial contents
 UserB is adding this cool line.
 of the first file that
 comprises the project.a new line
+UserA is improving this file for everyone!
