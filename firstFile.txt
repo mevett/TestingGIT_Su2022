@@ -1,4 +1,5 @@
 Matt is adding nifty new content!
 This is the initial contents
+UserB is adding this cool line.
 of the first file that
 comprises the project.a new line
