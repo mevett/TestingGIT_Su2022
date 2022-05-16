@@ -2,3 +2,4 @@ Matt is adding nifty new content!
 This is the initial contents
 of the first file that
 comprises the project.a new line
+UserA is improving this file for everyone!
